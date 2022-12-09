@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @GinanjarPutra22
-- 👀 I’m interested in Web Development and UI/UX Designer
+- 👀 I’m interested in Web Development and UI/UX Design
 - 🌱 I’m currently learning Web Programing
 - 💞️ I’m looking to collaborate on Figma
 - 📫 How to reach me @moh.ginanjar22@gmail.com
