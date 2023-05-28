@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there, I am Ginanjar Putra 👋
 ![](https://komarev.com/ghpvc/?username=your-github-GinanjarPutra22)
 
 - 🔭 I’m currently working on Surabaya State University || Bachelor of Informatic Engineering
