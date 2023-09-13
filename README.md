@@ -4,5 +4,5 @@
 - 🔭 I’m currently working on Surabaya State University || Bachelor of Informatic Engineering
 - 🌱 I’m currently learning  Web Programing and UI/UX Design
 - 👯 I’m looking to collaborate on Front End Developer and UI/UX Designer
-- 📫 How to reach me: @moh.ginanjar22@gmail.com
+- 📫 How to reach me: @mohginanjar22@gmail.com
 
